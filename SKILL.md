@@ -52,11 +52,14 @@ Use mental models to structure thinking. See `/references/frameworks.md` for the
 |---|---|
 | "Should I stay or leave?" | Regret Minimization, BATNA, Opportunity Cost |
 | "What career should I pursue?" | Ikigai, Hedgehog Concept, Skills Stack |
-| "How do I grow in my field?" | 10,000 Hours + Deliberate Practice, Career Capital |
-| "I want to start something" | Lean Startup thinking, Personal Monopoly |
+| "How do I grow in my field?" | 10,000 Hours + Deliberate Practice, Career Capital, 70/20/10 |
+| "I want to start something" | Lean Startup thinking, Personal Monopoly, Pre-mortem |
 | "I feel stuck/lost" | Designing Your Life (Odyssey Plans), Energy Audit |
-| "Should I take this offer?" | Decision Matrix, BATNA, Second-Order Thinking |
+| "Should I take this offer?" | Decision Matrix, BATNA, Second-Order Thinking, Pre-mortem |
 | "Long-term planning" | BHAG + Backcasting, The Portfolio Career |
+| "I can't decide" | Type 1/2, WRAP, Decision Matrix |
+| "I'm not sure why I want this" | Anti-Mimetic, Ikigai, Energy Audit |
+| "I'm considering something risky" | Lean Startup thinking, Pre-mortem, Type 1/2 |
 
 Always **name** the framework you're using and briefly explain why it applies. Don't just use it silently.
 

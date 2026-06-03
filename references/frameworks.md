@@ -252,6 +252,88 @@ Rate each on: Resources needed, Confidence level, Engagement/energy, Coherence w
 
 ---
 
+## Type 1 vs. Type 2 Decisions
+*From Jeff Bezos's 1997 shareholder letter*
+
+**What it is:** Type 1 decisions are one-way doors — costly or impossible to reverse. Type 2 decisions are two-way doors — if you walk through and don't like it, you can walk back. Bezos's claim: most decisions are Type 2, but people treat them like Type 1 and over-deliberate.
+
+**When to use:** Whenever the user is paralyzed by a decision. Ask first: is this actually Type 1, or is it Type 2 wearing Type 1 clothing?
+
+**Application to career questions:**
+- Taking a new job ≈ Type 2 (you can leave; even a "bad" year is recoverable)
+- Quitting without a plan in a tight market ≈ closer to Type 1 (rebuilding leverage is hard)
+- Going to a 4-year degree program ≈ Type 1 (time and money rarely come back)
+- Taking a sabbatical ≈ Type 2 for most workers, Type 1 for some (depends on field, level, runway)
+
+**Key insight:** Type 1 decisions deserve slow, careful thought. Type 2 decisions deserve speed — the cost of over-deliberation is usually higher than the cost of getting it slightly wrong and adjusting.
+
+---
+
+## WRAP — A Process for Better Decisions
+*From Chip and Dan Heath, "Decisive"*
+
+**What it is:** A four-step process designed to counter the four villains of decision-making (narrow framing, confirmation bias, short-term emotion, overconfidence):
+
+- **W**iden your options — Don't ask "should I do X?" Ask "what else could I do?" The "whether-or-not" framing is the trap
+- **R**eality-test your assumptions — Run cheap experiments. Talk to people who've done it. Look at base rates
+- **A**ttain distance before deciding — Use the 10/10/10 rule: how will I feel about this in 10 minutes, 10 months, 10 years? Or: what would I advise a friend in this situation?
+- **P**repare to be wrong — Set tripwires for when to reconsider. Plan for the downside
+
+**When to use:** Any significant career decision. Especially useful when the user has framed their question as binary ("should I take this job or not?") — that framing alone is the first villain.
+
+**Honest limitation:** This is a process, not an answer. It produces better decisions on average but doesn't guarantee good outcomes from any single decision.
+
+---
+
+## Pre-mortem Analysis
+*From Gary Klein (decision researcher)*
+
+**What it is:** Before committing to a decision, imagine yourself two years in the future. The decision failed badly. Write down why. Then work backwards from the failure modes to identify what to watch for or mitigate now.
+
+**When to use:** Before taking a job offer, joining a startup, starting a business, making a big geographic move, or any decision with a meaningful downside scenario.
+
+**Why it works:** People resist acknowledging risks during the excited "decision-making" phase. Framing it as "imagine it already failed" removes the social cost of being the pessimist and reveals concerns the user already half-knows.
+
+**Application:**
+- "It's two years from now and you took this startup job. It went badly. What happened?"
+- Common answers reveal: founder issues, market timing, runway, role/title disappointment, location regret
+- For each answer, ask: what would you need to see *now* to feel okay about that risk?
+
+---
+
+## The 70/20/10 Learning Split
+*Attributed to Morgan McCall and colleagues at the Center for Creative Leadership*
+
+**What it is:** A rough empirical breakdown of where professional growth comes from:
+- 70% from challenging on-the-job experiences
+- 20% from relationships, mentorship, and feedback
+- 10% from formal training and courses
+
+**When to use:** When the user is over-investing in courses, certifications, or credentials hoping they'll produce career growth — or when they're under-investing in stretch assignments and mentor relationships.
+
+**Key insight:** Most career capital is built by doing uncomfortable work at the edge of your ability, with feedback from people who've done it before. Courses are a small slice. If someone is taking their fifth online course this year and still feels stuck, the diagnosis is usually in the 70 or the 20.
+
+**Honest caveat:** The numbers are rough generalizations from one research program, not laws of physics. In some fields (medicine, law) formal training is closer to 30–40%. Use the ratio as a corrective bias, not a prescription.
+
+---
+
+## Anti-Mimetic Thinking (Examining Borrowed Desire)
+*Adapted from René Girard's mimetic theory; popularized in career contexts by Luke Burgis ("Wanting")*
+
+**What it is:** Most of what we want, we want because someone else wants it. Girard called this "mimetic desire." It's especially strong in career: prestige roles, FAANG titles, IPO stories, founder status — these are often wanted because the people around us want them, not because they fit us.
+
+**When to use:** When the user describes a goal in language that sounds borrowed ("I want to be a VP," "I want to start a company," "I want to work at [prestigious place]") without articulating why. Especially useful when the goal makes them anxious rather than energized.
+
+**Questions to ask:**
+- If no one you knew would ever find out you achieved this, would you still want it?
+- Whose voice is in your head when you imagine this goal? Is it yours?
+- What did you want before you encountered this peer group / industry / influencer?
+- If you got this thing, who would you most want to tell? Why?
+
+**Honest limitation:** Not all borrowed desire is bad. Some mimetic goals turn out to be genuinely good fits once pursued. The point isn't to reject borrowed desires but to examine them.
+
+---
+
 ## Framework Selection Guide
 
 | User feeling/question | Try these frameworks |
@@ -264,4 +346,9 @@ Rate each on: Resources needed, Confidence level, Engagement/energy, Coherence w
 | "I feel stuck/no opportunities" | Luck Surface Area, BATNA, Portfolio Career |
 | "Should I take this offer?" | BATNA, Decision Matrix, Second-Order Thinking |
 | "I want more meaning" | Ikigai, Energy Audit, Portfolio Career |
-| "I want to start something" | Lean thinking, Personal Monopoly, Luck Surface Area |
+| "I want to start something" | Lean Startup thinking, Personal Monopoly, Luck Surface Area |
+| "I can't decide" | Type 1/2, WRAP, Decision Matrix |
+| "I'm worried this won't work out" | Pre-mortem, BATNA, Second-Order Thinking |
+| "I keep taking courses but feel stuck" | 70/20/10, Career Capital |
+| "I'm not sure why I want this" | Anti-Mimetic, Ikigai, Energy Audit |
+| "I'm considering something risky" | Lean Startup thinking, Pre-mortem, Type 1/2 |
