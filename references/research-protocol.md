@@ -69,6 +69,8 @@ After searching, be explicit about what you found vs. didn't find:
 - `[role title] total compensation vs. base salary`
 - Site-specific: levels.fyi (tech), glassdoor, linkedin salary, payscale
 
+> **International sources:** Levels.fyi (tech, increasingly international), Otta / Welcome to the Jungle (Europe), kununu (DACH region), JobBank (Canada), PayScale (international), Salary Expert. Glassdoor data quality varies sharply outside the US. When researching for a user outside the US, prioritize country-specific sources and acknowledge data thinness.
+
 **Synthesize:**
 - Median base salary range (always a range, never a single number)
 - How much variance exists by location, company size, and level?
@@ -168,6 +170,13 @@ Always structure research findings like this:
 ### What I couldn't verify
 > "I wasn't able to find reliable data on [X]. You might get better signal by [talking to someone in the field / checking LinkedIn profiles / informational interviews]."
 
+### When sources contradict
+
+Don't average contradictory data into mush. Instead:
+- Name the contradiction explicitly: "Glassdoor reports X; LinkedIn data suggests Y."
+- Look for the meta-pattern: is one source biased (selection effects, who reports)? Is one more recent? Is the contradiction real (e.g., the role varies hugely by company)?
+- When you can't resolve it, surface that to the user: "These don't agree, and I can't tell you which is closer to truth. Here's what I'd do to find out."
+
 ---
 
 ## When Research Is Insufficient
@@ -180,6 +189,35 @@ Some questions can't be answered well by web search. Flag these explicitly:
 - **"Will this industry exist in 10 years?"** → Nobody knows. Present the bull and bear cases honestly.
 
 For these, your job is to **help the user figure out how to get better information**, not to pretend you have it.
+
+---
+
+## Helping the User Run Informational Interviews
+
+When research can't answer the question (culture, fit, what it's really like), the next best signal is a 30-minute conversation with someone who's done the thing. Help the user structure these:
+
+**Finding people:**
+- LinkedIn search for the target role + "open to chat" or alumni from the user's school/company
+- Industry-specific Slack communities, Discord servers, subreddits
+- Twitter/X for some industries; Substack comment sections for others
+- Warm intros from the user's existing network beat cold outreach 5:1
+
+**Outreach pattern that gets replies:**
+- Short (under 100 words)
+- Specific about why this person (referenced their work, role, or path)
+- Asks for 20–30 minutes, not "advice" or "to pick your brain"
+- Includes one concrete question they could answer if they don't want to meet
+
+**Questions worth asking (in this order):**
+1. How did you actually get into this role? (Not the LinkedIn version)
+2. What's the hardest part that isn't obvious from the outside?
+3. Who succeeds in this role and who doesn't? What's the difference?
+4. If you were me, what would you do next?
+5. Who else should I talk to?
+
+**Synthesizing across conversations:**
+- One conversation is an anecdote; three is a pattern; five is signal
+- Track contradictions explicitly — they reveal what varies by company/team vs. what's structural to the role
 
 ---
 
