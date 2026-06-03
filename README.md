@@ -1,5 +1,7 @@
 # Career Guide: A Mentorship Skill for Claude
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Most people don't work less hard than those who succeed. They just don't have someone in their corner who has been there before. Someone who can tell them which moves actually matter, which fears are worth listening to, and which opportunities are as good as they look.
 
 Mentorship has always existed. But for most of history, it has been unevenly distributed. If you went to the right school, grew up in the right network, or were lucky enough to find a senior person who invested in you, you got it. If you didn't, you figured things out slowly, through trial and error, often paying a real cost in time and opportunity.
@@ -158,6 +160,14 @@ When those situations come up, it'll tell you and point you in the right directi
 If you use this and find something that should be better (a framework that's missing, a situation that isn't covered, advice that feels off) please open an issue or a pull request. This is a living document and it should get sharper over time.
 
 The goal is something that's actually useful to real people navigating real careers. If something isn't meeting that bar, it's worth fixing.
+
+---
+
+## License
+
+This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You're free to use, share, and adapt it for personal or non-commercial purposes as long as you give credit. You may not package it into a paid product, embed it in a commercial service, or use it as part of any offering where the primary purpose is financial gain, without explicit permission.
 
 ---
 
