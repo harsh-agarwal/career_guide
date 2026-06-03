@@ -218,6 +218,40 @@ Rate each on: Resources needed, Confidence level, Engagement/energy, Coherence w
 
 ---
 
+## Decision Matrix (Weighted Scoring)
+*Common in management consulting; popularized for personal decisions by various coaches*
+
+**What it is:** List your options as rows and your criteria as columns. Weight each criterion by importance (1–5). Score each option against each criterion (1–10). Multiply and sum to get a total per option.
+
+**When to use:** Multi-option decisions with multiple competing criteria (e.g., choosing between job offers that differ on comp, learning, prestige, commute, mission).
+
+**How to apply honestly:**
+- Pick criteria *before* scoring options, not after — picking criteria to justify a preferred answer is the classic failure mode
+- Force yourself to include criteria that argue against your gut preference
+- The output is a thinking aid, not the decision. If the matrix says A but your gut screams B, that gap is worth examining, not overriding
+
+**Honest limitation:** Numbers create false precision. Two options scoring 78 and 82 are not meaningfully different. Use the matrix to *surface* hidden weights and tradeoffs, not to crown a winner.
+
+---
+
+## Lean Startup Thinking (Applied to Careers)
+*From Eric Ries, "The Lean Startup"; adapted to careers by various practitioners*
+
+**What it is:** Treat a potential career path as a hypothesis to be tested with the smallest possible experiment, not as a decision to be made all at once. Build–Measure–Learn: define what you'd need to see to believe the path is right, design the cheapest experiment that would produce that signal, run it, update.
+
+**When to use:** When someone is considering a big, risky, or expensive career move (starting a company, leaving a stable job, going back to school) and would benefit from a smaller test first.
+
+**Application:**
+- Considering a startup? Validate the problem with 20 customer conversations before quitting
+- Considering a career switch to design? Take on three small projects before enrolling in a bootcamp
+- Considering management? Lead a small project before applying for the title
+
+**Key insight:** Most career anxiety comes from treating reversible decisions as irreversible. Cheap experiments collapse the uncertainty faster than more thinking.
+
+**Honest limitation:** Some career moves can't be experimented with cheaply (medical school, military service, having children). Don't pretend everything is a hypothesis when some things are commitments.
+
+---
+
 ## Framework Selection Guide
 
 | User feeling/question | Try these frameworks |

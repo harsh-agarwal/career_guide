@@ -6,6 +6,8 @@ This guide tells you *what* to search for and *how* to synthesize findings when 
 
 ## Core Principle: State Your Uncertainty
 
+> **A note on dates in search queries:** Examples below use `[current year]` as a placeholder. Substitute the actual current year when running searches, and consider also searching the previous year (`[current year - 1]`) to catch coverage that hasn't been updated yet.
+
 Before searching, acknowledge what you don't know:
 > "Before I give you a view on [X], let me research current market conditions — my training data may be outdated."
 
@@ -19,7 +21,7 @@ After searching, be explicit about what you found vs. didn't find:
 ### 1. Role Exploration ("What does a [role] actually do?")
 
 **Search for:**
-- `[role title] day in the life 2024 OR 2025`
+- `[role title] day in the life [current year] OR [current year - 1]`
 - `[role title] responsibilities vs. expectations`
 - `[role title] career path progression`
 - `[role title] skills required vs. skills listed job postings`
@@ -39,10 +41,10 @@ After searching, be explicit about what you found vs. didn't find:
 ### 2. Industry Conditions ("Is [industry] a good bet right now?")
 
 **Search for:**
-- `[industry] job market 2025`
-- `[industry] hiring trends 2025`
-- `[industry] layoffs OR growth 2025`
-- `[industry] AI impact on jobs 2025` (if relevant)
+- `[industry] job market [current year]`
+- `[industry] hiring trends [current year]`
+- `[industry] layoffs OR growth [current year]`
+- `[industry] AI impact on jobs [current year]` (if relevant)
 - `[industry] outlook next 5 years`
 
 **Synthesize:**
@@ -62,7 +64,7 @@ After searching, be explicit about what you found vs. didn't find:
 ### 3. Salary & Compensation ("What does this pay?")
 
 **Search for:**
-- `[role title] salary [location OR "United States"] 2025`
+- `[role title] salary [location OR "United States"] [current year]`
 - `[role title] compensation levels [company type: startup vs. FAANG vs. mid-market]`
 - `[role title] total compensation vs. base salary`
 - Site-specific: levels.fyi (tech), glassdoor, linkedin salary, payscale
@@ -106,7 +108,7 @@ After searching, be explicit about what you found vs. didn't find:
 ### 5. Skill Gap Analysis ("What skills do I need to get there?")
 
 **Search for:**
-- `[target role] required skills 2025`
+- `[target role] required skills [current year]`
 - `[target role] job postings [location]` — scan 5–10 actual postings
 - `[target role] what hiring managers look for`
 - `[target role] portfolio OR credentials required`
@@ -128,11 +130,11 @@ After searching, be explicit about what you found vs. didn't find:
 ### 6. Company/Opportunity Research ("Should I join [company]?")
 
 **Search for:**
-- `[company name] culture review 2025`
-- `[company name] layoffs OR growth 2025`
+- `[company name] culture review [current year]`
+- `[company name] layoffs OR growth [current year]`
 - `[company name] Glassdoor reviews [role type]`
 - `[company name] financial health` (for private: funding stage, burn rate; for public: recent earnings)
-- `[company name] leadership news 2025`
+- `[company name] leadership news [current year]`
 
 **Synthesize:**
 - Is the company financially stable? Growing or shrinking?
